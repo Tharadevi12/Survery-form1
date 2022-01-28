@@ -1,16 +1,8 @@
 body{
 background: #ff0066 ;
 }
-.f1{
-bakground:white;
-font-style:bold;
-}
 h1{
 font-size:50px;
 font-style:italic;
 text-align:center;
-}
-.button{
-background-color:yellow;
-color:white;
 }
